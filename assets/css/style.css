@@ -837,6 +837,30 @@ section {
   z-index: 1;
 }
 
+.featured-services .icon-box5 {
+  margin-top: 25px;
+  padding: 30px;
+  position: relative;
+  overflow: hidden;
+  background: #96D4D4;
+  box-shadow: 0 0 29px 0 rgba(68, 88, 144, 0.12);
+  transition: all 0.3s ease-in-out;
+  border-radius: 8px;
+  z-index: 1;
+}
+
+.featured-services .icon-box6 {
+  margin-top: 25px;
+  padding: 30px;
+  position: relative;
+  overflow: hidden;
+  background: #FFC0C7;
+  box-shadow: 0 0 29px 0 rgba(68, 88, 144, 0.12);
+  transition: all 0.3s ease-in-out;
+  border-radius: 8px;
+  z-index: 1;
+}
+
 .featured-services .icon {
   margin-bottom: 15px;
 }
